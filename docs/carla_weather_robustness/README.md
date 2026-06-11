@@ -165,8 +165,6 @@ class WeatherSimulator:
 
 原代码每帧都重新随机生成雨滴和雪花，CPU 开销大。修改后引入缓存机制，仅在随机种子或尺寸变化时重建，大幅降低每帧计算量。
 
-![十种天气画面对比](./assets/weather_comparison.png)
-
 ## 碰撞检测与评分体系
 
 ```python
