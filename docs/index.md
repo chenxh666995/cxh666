@@ -35,6 +35,7 @@ title: 主页
 - [__受限玻尔兹曼机__](RBM.md) - RBM基础实现
 - [__强化学习__](RL.md) - 强化学习基础
 - [__机器人仿真__](ant_robot/机器人仿真系统.md) - MuJoCo机器人仿真
+- [__强化学习工作空间__](rl_workspace.md) - 强化学习工作空间
 
 [__基于深度学习置信度加权的自动驾驶雨天多传感器融合感知优化__](rain_sensor_fusion\DEMO_REPORT.md)
 
@@ -64,6 +65,8 @@ title: 主页
 - [__自动驾驶车辆语义分割__](./auto_drive_seg/README.md) - 基于 U-Net + Focal Loss 的 CARLA 街景 8 类语义分割（含数据增强、速度基准、概率热力图、类别频率分析）
 - [__用户使用手势控制 Airsim 无人机__](./drone_hand_gesture/README.md) - 使用手势识别控制 Airsim 无人机飞行
 
+- [__基于自监督学习与PPO强化学习的自动驾驶仿真项目__](./autonomous_driving/README.md) - 基于CARLA的SSL+RL自动驾驶仿真系统
+
 ## 规划 <span id="planning"></span>
 
 [__导航__](#navigation)
@@ -81,6 +84,8 @@ title: 主页
 [PID](#pid)
 - [__导航__](#navigation)
 - [__自动驾驶系统__](./auto_drive_system/auto_drive_system_README) - 基于强化学习的自动驾驶系统
+- [__CARLA自动驾驶多场景仿真项目__](./DeFIX/docs/index.md)
+- [__carla_2d_deeprl__](./carla_2d_deeprl/README.md) - 基于 CARLA 的极简 2D 深度强化学习自动驾驶环境。
 - [__无人机飞行控制__](./UVA_flight_control_system.md) - 基于AirSim的无人机飞行控制系统
 - [__人形机器人平衡控制__](./humanoid_balance/Humanoid_Balance.md) - 基于强化学习的人形机器人平衡控制仿真
 - [__工程规范优化__](./improve/project.md) - 多场景仿真与控制优化项目
