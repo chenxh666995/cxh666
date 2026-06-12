@@ -66,7 +66,8 @@ title: 主页
 - [__用户使用手势控制 Airsim 无人机__](./drone_hand_gesture/README.md) - 使用手势识别控制 Airsim 无人机飞行
 
 - [__基于自监督学习与PPO强化学习的自动驾驶仿真项目__](./autonomous_driving/README.md) - 基于CARLA的SSL+RL自动驾驶仿真系统
-
+- [__CARLA天气鲁棒性测试__](./carla_weather_robustness/README.md) - CARLA多天气条件下自动驾驶感知鲁棒性测试系统
+  
 ## 规划 <span id="planning"></span>
 
 [__导航__](#navigation)
