@@ -99,7 +99,7 @@ title: 主页
 
 - [__人形机器人SAC强化学习步态优化__](./mujoco_running/running.md) - 基于CPG+PD+SAC残差强化学习的缓步稳定行走仿真
 
-
+- [__GraspRL机械臂抓取强化学习项目__](./index_wk.md) - 基于DQN与MuJoCo的视觉机械臂抓取仿真项目
 
 ## 控制 <span id="control"></span>
 
